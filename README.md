@@ -1,0 +1,1 @@
+# precise-hashrate-calculation-algorithm
